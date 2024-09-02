@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Your Name]!
+## Hi there 👋 I'm [PRASANNA VENKATESH N]!
 
 ### 🔭 I’m currently working on
 - [Briefly describe your current projects, e.g., "A machine learning model for predicting credit card eligibility"]
