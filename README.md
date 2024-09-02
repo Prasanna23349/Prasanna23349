@@ -12,7 +12,7 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width = 300px></picture>
 
 - :school: I am a `MTech Integrated Computer Science and Engineering` student at [VIT University](https://vit.ac.in/), driven by a passion for coding, problem-solving, and creative pursuits.
 - :trophy: I'm always seeking challenges and learning opportunities. My current focus is on **Artificial Intelligence, Machine Learning, and Web Development.** 
