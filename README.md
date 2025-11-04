@@ -12,7 +12,6 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width = 200px></picture>
 
 - :school: I am a `MTech Integrated Computer Science and Engineering` student at [VIT University](https://vit.ac.in/), driven by a passion for coding, problem-solving, and creative pursuits.
 - :trophy: I'm always seeking challenges and learning opportunities. My current focus is on **Artificial Intelligence, Machine Learning, and Web Development.** 
@@ -40,12 +39,12 @@
 ### <picture> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2rTuf0l51QA0vmUM1ejPiS&ust=1762316917804000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKizv6PU15ADFQAAAAAdAAAAABAE" width=20px> </picture> Full stack
 
 ![React](https://img.shields.io/badge/React-DD0031?style=flat-square&logo=React&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Springboot-ED8B00?style=flat-square&logo=SpringBoot&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ED8B00?style=flat-square&logo=Postman&logoColor=white)
-![JSX](https://img.shields.io/badge/JSX-ED8B00?style=flat-square&logo=JSX&logoColor=white)
-![Maven Repository](https://img.shields.io/badge/Maven-ED8B00?style=flat-square&logo=Maven-Repostiory&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Springboot-E34F26?style=flat-square&logo=SpringBoot&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-3178C6?style=flat-square&logo=Postman&logoColor=white)
+![JSX](https://img.shields.io/badge/JSX-F7DF1E?style=flat-square&logo=JSX&logoColor=white)
+![Maven Repository](https://img.shields.io/badge/Maven-3178C6?style=flat-square&logo=Maven-Repostiory&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-ED8B00?style=flat-square&logo=MySql&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-ED8B00?style=flat-square&logo=Jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-4479A1?style=flat-square&logo=Jira&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=java&logoColor=white)
 
 
