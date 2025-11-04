@@ -43,10 +43,10 @@
 ![Spring Boot](https://img.shields.io/badge/Springboot-ED8B00?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ED8B00?style=flat-square&logo=Postman&logoColor=white)
 ![JSX](https://img.shields.io/badge/JSX-ED8B00?style=flat-square&logo=JSX&logoColor=white)
-![Maven Repository](https://img.shields.io/badge/Maven-ED8B00?style=flat-square&logo=Maven&logoColor=white)
+![Maven Repository](https://img.shields.io/badge/Maven-ED8B00?style=flat-square&logo=Maven-Repostiory&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-ED8B00?style=flat-square&logo=MySql&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-ED8B00?style=flat-square&logo=Jira&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=java&logoColor=white)
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Machine Learning
