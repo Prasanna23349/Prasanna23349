@@ -37,8 +37,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
-###<picture> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2rTuf0l51QA0vmUM1ejPiS&ust=1762316917804000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKizv6PU15ADFQAAAAAdAAAAABAE" width=20px> </picture> Full stack
-![React](https://img.shields.io/badge/React-ED8B00?style=flat-square&logo=Reac&logoColor=white)
+### <picture> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2rTuf0l51QA0vmUM1ejPiS&ust=1762316917804000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKizv6PU15ADFQAAAAAdAAAAABAE" width=20px> </picture> Full stack
+
+![React](https://img.shields.io/badge/React-DD0031?style=flat-square&logo=React&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Springboot-ED8B00?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ED8B00?style=flat-square&logo=Postman&logoColor=white)
 ![JSX](https://img.shields.io/badge/JSX-ED8B00?style=flat-square&logo=JSX&logoColor=white)
