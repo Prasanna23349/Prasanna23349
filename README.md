@@ -25,18 +25,28 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-DD0031?style=flat-square&logo=React&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+###<picture> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2rTuf0l51QA0vmUM1ejPiS&ust=1762316917804000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKizv6PU15ADFQAAAAAdAAAAABAE" width=20px> </picture> Full stack
+![React](https://img.shields.io/badge/React-ED8B00?style=flat-square&logo=Reac&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Springboot-ED8B00?style=flat-square&logo=SpringBoot&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ED8B00?style=flat-square&logo=Postman&logoColor=white)
+![JSX](https://img.shields.io/badge/JSX-ED8B00?style=flat-square&logo=JSX&logoColor=white)
+![Maven Repository](https://img.shields.io/badge/Maven-ED8B00?style=flat-square&logo=Maven&logoColor=white)
+![MySql](https://img.shields.io/badge/MySql-ED8B00?style=flat-square&logo=MySql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-ED8B00?style=flat-square&logo=Jira&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Machine Learning
 
